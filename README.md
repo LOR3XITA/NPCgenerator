@@ -16,7 +16,7 @@ pip install streamlit
 ## Avvio
 
 ```bash
-python -m streamlit run simulatorevita.py
+python -m streamlit run NPCgenerator.py
 ```
 
 Il browser si aprirà automaticamente. Se non si apre, vai su `http://localhost:8501`
