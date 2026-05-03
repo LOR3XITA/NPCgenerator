@@ -1,0 +1,48 @@
+{
+  "umano": [
+    "Ferrante", "Sal", "Moro", "Dente", "Bracci",
+    "Corvino", "Ferro", "Gallo", "Lancia", "Marino",
+    "Neri", "Orsi", "Penna", "Rocca", "Sasso",
+    "Toro", "Ungaro", "Vento", "Zagara", "Amaro",
+    "Bello", "Crudo", "Duro", "Fermo", "Grasso"
+  ],
+  "elfo": [
+    "Fogliadargento", "Albachiara", "Ventosettentrionale",
+    "Lucelunare", "Ramodoro", "Stellacadente",
+    "Acquacristallo", "Boscoantico", "Cielosereno",
+    "Dormiveglia", "Ecoforesta", "Fiordighiaccio",
+    "Gelsomino", "Herbaverde", "Isolaluna",
+    "Lagospecchio", "Mattinabella", "Nuvolebianche",
+    "Ombrasilente", "Primaveraterna"
+  ],
+  "nano": [
+    "Pietraferma", "Martellorosso", "Breccia",
+    "Acciaiovivo", "Bronzoantico", "Cavapietra",
+    "Durapietra", "Ergastolo", "Ferrobattuto",
+    "Granitorotto", "Hammerfist", "Incudine",
+    "Kragspina", "Lapidario", "Martellocaldo",
+    "Nordrock", "Oropuro", "Picconverde",
+    "Quarzo", "Rottame", "Scogliera",
+    "Tundra", "Ugnafirma", "Venaferro"
+  ],
+  "halfling": [
+    "Piedigrandi", "Trifoglio", "Boccapiena",
+    "Campofiore", "Dossorotondo", "Erbasanta",
+    "Focolare", "Ghiandaia", "Herbamenta",
+    "Isolaverde", "Laghetto", "Marmellata",
+    "Nidocaldo", "Oltremarcia", "Panerotto",
+    "Querciabuona", "Rustico", "Siepealta",
+    "Torta", "Uviasecca", "Vigneto",
+    "Zuccotto", "Arbusto", "Boscaglia"
+  ],
+  "tiefling": [
+    "Cenere", "Osscuro", "Vuotoanima",
+    "Abisso", "Bracefiamma", "Crudeltà",
+    "Dolore", "Eclisse", "Fiammanera",
+    "Gelo", "Inferno", "Lamento",
+    "Maledetto", "Notte", "Ombra",
+    "Perdizione", "Rancore", "Sangue",
+    "Tormento", "Urlo", "Vendetta",
+    "Wrath", "Xeno", "Yermak", "Zeroth"
+  ]
+}

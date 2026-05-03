@@ -1,0 +1,25 @@
+{
+  "colori_occhi": [
+    "ambra", "grigio acciaio", "verde muschio", "nero",
+    "azzurro ghiaccio", "marrone miele", "viola scuro",
+    "giallo dorato", "rosso sangue", "bianco latteo"
+  ],
+  "colori_capelli": [
+    "corvino", "rosso rame", "biondo cenere", "bianco",
+    "castano scuro", "grigio ferro", "nero blu", "fulvo",
+    "biondo platino", "marrone ramato", "arancio selvatico"
+  ],
+  "corporatura": [
+    "esile", "massiccia", "media", "curva",
+    "atletica", "tarchiata", "longiliena", "goffa",
+    "nervosa", "robusta"
+  ],
+  "personalita": [
+    "diffidente", "caloroso", "arrogante", "melanconico",
+    "ironico", "ansioso", "coraggioso", "codardo",
+    "curioso", "riservato", "espansivo", "crudele",
+    "premuroso", "opportunista", "leale", "volubile",
+    "ossessivo", "distratto", "furbo", "ingenuo"
+  ],
+  "razza": ["umano", "elfo", "nano", "halfling", "tiefling"]
+}

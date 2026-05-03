@@ -1,0 +1,37 @@
+{
+  "umano": [
+    "Marta", "Velio", "Drace", "Senna", "Aldric", "Brenna",
+    "Corvin", "Delia", "Edro", "Fiora", "Gareth", "Hilda",
+    "Ivano", "Lena", "Marco", "Nadia", "Orso", "Petra",
+    "Quintus", "Reva", "Sergio", "Tilda", "Ugo", "Vera",
+    "Walter", "Yara", "Zeno", "Alma", "Bruno", "Carla"
+  ],
+  "elfo": [
+    "Aelindra", "Sorvyn", "Caelith", "Eryndel", "Faelith",
+    "Galaith", "Helorin", "Ithilwen", "Jorvyn", "Kaelith",
+    "Lirien", "Maewyn", "Nyrith", "Orvyn", "Phaelith",
+    "Quorin", "Ryviel", "Sylvara", "Thalion", "Urvyn",
+    "Vaelith", "Wynris", "Xalith", "Yrviel", "Zaelith"
+  ],
+  "nano": [
+    "Brunda", "Gorvik", "Helda", "Aldrin", "Bergit",
+    "Dagmar", "Egrun", "Frodvi", "Gunda", "Hroar",
+    "Ingrid", "Jorvik", "Katla", "Lodvik", "Morda",
+    "Norgrim", "Olgra", "Pjotr", "Ragna", "Sigrun",
+    "Thora", "Ulfrik", "Vigdis", "Yngvar", "Zorda"
+  ],
+  "halfling": [
+    "Pippi", "Tomlin", "Rosca", "Adelard", "Belba",
+    "Cora", "Drogo", "Estella", "Folco", "Gilda",
+    "Hamfast", "Isumbras", "Lobelia", "Merlo", "Nora",
+    "Olo", "Peregrin", "Rubina", "Sancho", "Tanta",
+    "Uffo", "Viola", "Wilma", "Yolanda", "Zara"
+  ],
+  "tiefling": [
+    "Zyrra", "Mordecai", "Velsin", "Akmenos", "Barakas",
+    "Carrion", "Damaia", "Ekemon", "Fanele", "Grimaldi",
+    "Heskan", "Iados", "Kairon", "Leucis", "Melech",
+    "Naome", "Oses", "Prixis", "Quarion", "Ryvos",
+    "Skamos", "Therai", "Ulwaar", "Vaeret", "Wroth"
+  ]
+}
